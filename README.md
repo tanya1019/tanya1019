@@ -11,7 +11,7 @@
 <img src = 'https://github-readme-stats.vercel.app/api?username=tanya1019&theme=radical&show_icons=true'/>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanya1019&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="tanya1019" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanya1019&show_icons=true&theme=radical&locale=en&layout=compact" alt="tanya1019" /></p>
 
 <h3 align="center">Connect with me over at</h3>
 <p align="center">
