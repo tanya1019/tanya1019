@@ -1,6 +1,6 @@
 <h1>  Hi there 👋 </h1>
 
-<p align = 'center'
+<p align = 'center'>
 - 🔭 I’m currently working in EduTekZilla
 - 🌱 I’m currently learning MERN stack with React, React-Native
 - 👯 I’m looking to collaborate on Mobile App Development
