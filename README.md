@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tanya.vanneri19@gmail.com
 
 [![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanya1019)](https://github.com/tanya1019/github-readme-stats)   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanya1019&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanya1019&layout=compact)](https://github.com/tanya1019/github-readme-stats)
