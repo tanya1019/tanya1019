@@ -1,12 +1,12 @@
 <h1>  Hi there 👋 </h1>
 
-
+<p align = 'center'
 - 🔭 I’m currently working in EduTekZilla
 - 🌱 I’m currently learning MERN stack with React, React-Native
 - 👯 I’m looking to collaborate on Mobile App Development
 - 📫 How to reach me: tanya.vanneri19@gmail.com
 
-
+</p>
    
 ![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanya1019&theme=radical&show_icons=true)
 
