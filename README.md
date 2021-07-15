@@ -12,7 +12,7 @@
 </p>
 
 <p align = 'center'>
-<img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=tanya1019&layout=compact&theme=radical)](https://github.com/tanya1019/github-readme-stats'/>
+<img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=tanya1019&layout=compact&theme=radical/>
 </p>
 
 <h3 align="center">Connect with me over at</h3>
