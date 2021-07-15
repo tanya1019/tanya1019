@@ -10,4 +10,4 @@ Here are some ideas to get you started:
    
 ![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanya1019&theme=radical&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanya1019&layout=compact)](https://github.com/tanya1019/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanya1019&layout=compact&theme=radical)](https://github.com/tanya1019/github-readme-stats)
