@@ -7,7 +7,7 @@
 - 📫 How to reach me: tanya.vanneri19@gmail.com
 
 
-<p align = 'center>   
+<p align = 'center'>   
 <img src = 'https://github-readme-stats.vercel.app/api?username=tanya1019&theme=radical&show_icons=true'/>
 </p>
 
