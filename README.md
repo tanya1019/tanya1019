@@ -42,7 +42,7 @@
 
 <summary>Languages and Tools</summary>
 <p align="left">
-<a href="https://angular.io" target="_blank">
+
    
    
 <details>
