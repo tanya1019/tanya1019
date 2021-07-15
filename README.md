@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+<h2> Here are some ideas to get you started: </h2>
 
 - 🔭 I’m currently working in EduTekZilla
 - 🌱 I’m currently learning MERN stack with React, React-Native
