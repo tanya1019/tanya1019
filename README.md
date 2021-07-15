@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Mobile App Development
 - 📫 How to reach me: tanya.vanneri19@gmail.com
 
+
    
 ![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanya1019&theme=radical&show_icons=true)
 
@@ -16,6 +17,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanya1019&layout=compact&theme=radical)](https://github.com/tanya1019/github-readme-stats)
 
 
+<h3 align="center">Connect with me over at</h3>
+<p align="center">
 
 <a href="https://twitter.com/tanya__1019" target="blank">
     <img align="center" src="Svg/twitter.svg" alt="tanya1019" height="30" width="40" />
@@ -33,5 +36,8 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/tanya__1019/" target="blank">
     <img align="center" src="Svg/instagram.svg" alt="tanya1019" height="30" width="40" />
 </a>
+   
+   </p>
+<hr />
 
 
