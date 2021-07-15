@@ -8,7 +8,7 @@
 
 
 <p align = 'center>   
-![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanya1019&theme=radical&show_icons=true)
+<img src = 'https://github-readme-stats.vercel.app/api?username=tanya1019&theme=radical&show_icons=true'/>
 </p>
 
 <p align = 'center'>
