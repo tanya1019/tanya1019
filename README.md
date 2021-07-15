@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Mobile App Development
 - 📫 How to reach me: tanya.vanneri19@gmail.com
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=tanya1019&repo=github-readme-stats)](https://github.com/tanya1019/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=tanya1019&repo=github-readme-stats)](https://github.com/tanya1019/tanya1019/github-readme-stats)
 
    
 ![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanya1019&theme=radical&show_icons=true)
