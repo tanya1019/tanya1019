@@ -7,13 +7,13 @@
 - 📫 How to reach me: tanya.vanneri19@gmail.com
 
 
-   
+<p align = 'center>   
 ![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanya1019&theme=radical&show_icons=true)
+</p>
 
-
-
+<p align = 'center'>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanya1019&layout=compact&theme=radical)](https://github.com/tanya1019/github-readme-stats)
-
+</p>
 
 <h3 align="center">Connect with me over at</h3>
 <p align="center">
